@@ -1571,7 +1571,7 @@ i.meet-email {
     background-color: white;
     width: 62px;
     height: 62px;
-    border-radius: 200px;
+    border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1586,12 +1586,12 @@ i.meet-email {
     flex-direction: column;
     gap: 6px;
 }
-.meet-owen {
+.meet-luke {
     font-size: 18px;
     font-weight: 500;
     color: white;
 }
-.meet-owen-role {
+.meet-luke-role {
     font-size: 16px;
     color: hsl(0, 0%, 75%);
 }
